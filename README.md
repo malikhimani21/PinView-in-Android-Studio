@@ -4,7 +4,7 @@ Here We are going to see how to implement PinView in Android Studio ( PinView us
 
 First you need to add dependencies for PinView 
 
-Then add PinView Component in xml file - main_activity.xml file
+Then add PinView Component in xml file - activity_main.xml file
 
 Then add click event in PinView - MainActivity Class File
 
